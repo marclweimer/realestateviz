@@ -5,7 +5,6 @@ Harold's company has just started a new Real Estate Investment division to provi
 
 The goal of this dashboard is to provide charts, maps, and interactive visualizations that help customers explore the data and determine if they want to invest in rental properties in San Francisco.
 
-In this homework assignment, you will help Harold accomplish the following tasks:
+The end result of the analysis and work in python is the below dashboard:
 
-Complete a notebook of rental analysis
-Create a dashboard of interactive visualizations to explore the market data
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marclweimer/realestateviz/master)
